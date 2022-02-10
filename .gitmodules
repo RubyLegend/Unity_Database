@@ -1,3 +1,4 @@
 [submodule "Lab1"]
 	path = Lab1
 	url = https://github.com/RubyLegend/Unity_Learn.git
+	branch = main
